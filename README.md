@@ -1,4 +1,4 @@
-# jeffasmah_profile
+# Jeff Asmah's Profile
 This repo describes the owner of the repository. Oh yes! that is me. Let us take a look at what we have here.
 
 :simple_smile: :bowtie: Yes! I am Jeff Asmah</br>
@@ -9,7 +9,7 @@ This repo describes the owner of the repository. Oh yes! that is me. Let us take
 
 
 [![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jayCde&show_icons=true&theme=radical)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayCde&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayCde&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 Stay in touch, let us keep the conversation going: 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
