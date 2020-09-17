@@ -1,5 +1,5 @@
 # Jeff Asmah's Profile
-This repo describes the owner of the repository. Oh yes! :smile: That is me. Let us take a look at what we have here.
+This repo describes the owner of the repository. Oh yes! :smile: That is me. Come with me let us take a look at what he is made of .
 
 :bowtie: Yes! I am Jeff Asmah</br>
 :heart: I love everything :computer: :loop: :rocket: technology, :bar_chart: business and economic systems.</br>
