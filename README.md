@@ -1,15 +1,15 @@
 # jeffasmah_profile
 This repo describes the owner of the repository. Oh yes! that is me. Let us take a look at what we have here.
 
-:simple_smile: :bowtie: Yes! I am Jeff Asmah
-:heart: I love everything :computer: :loop: :rocket: technology, :bar_chart: business and economic systems.
-:sunglasses: I am currently on a developer learning spree :laughing:
-:earth_africa: :earth_asia: :earth_americas: I look forward to collaborating tireslessly. (It is game time :dart: )
-:sparkles: Fun fact: I love to produce (music) beats. :notes:
+:simple_smile: :bowtie: Yes! I am Jeff Asmah</br>
+:heart: I love everything :computer: :loop: :rocket: technology, :bar_chart: business and economic systems.</br>
+:sunglasses: I am currently on a developer learning spree :laughing:</br>
+:earth_africa: :earth_asia: :earth_americas: I look forward to collaborating tireslessly. (It is game time :dart: )</br>
+:sparkles: Fun fact: I love to produce (music) beats. :notes:</br>
 
-[![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jayCde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jayCde&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayCde&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jayCde&show_icons=true&theme=radical)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayCde&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 Stay in touch, let us keep the conversation going: 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
