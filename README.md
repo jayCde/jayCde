@@ -3,7 +3,7 @@ This repo describes the owner of the repository. Oh yes! :smile: That is me. Let
 
 :bowtie: Yes! I am Jeff Asmah</br>
 :heart: I love everything :computer: :loop: :rocket: technology, :bar_chart: business and economic systems.</br>
-:sunglasses: I am currently on a developer learning spree :laughing:</br>
+:sunglasses: I am currently on a developer coding spree :laughing:</br>
 :earth_africa: :earth_asia: :earth_americas: I look forward to collaborating tireslessly. (It is game time :dart: )</br>
 :sparkles: Fun fact: I love to produce (music) beats. :notes:</br>
 
