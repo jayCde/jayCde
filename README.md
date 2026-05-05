@@ -8,9 +8,6 @@ This repo describes the owner of the repository. Oh yes! :smile: That is me. Let
 :sparkles: Fun fact: I love to produce (music) beats. :notes:</br>
 
 
-[![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jayCde&show_icons=true&theme=radical&count_private=true)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayCde&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</br>
-
 Stay in touch, let us keep the conversation going: 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
